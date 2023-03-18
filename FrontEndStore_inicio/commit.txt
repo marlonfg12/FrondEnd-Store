@@ -1,3 +1,3 @@
-En este commit se modificaron algunas estilos tambien se agregaron mas estilos y demas opciones necesarias se cambiaron las variables de colores principales como tambien una variable de fuente primaria 
+En este commit se modifico el stilo de las imagenes se agregaron estilos al logo del header y se añadio un enlace al mismo se añadieron estilos a la navegacion con los enlaces usando BEM en el menu de navegacion se estructuro el mismo header
 
-commit numero 4
+commit numero 5
