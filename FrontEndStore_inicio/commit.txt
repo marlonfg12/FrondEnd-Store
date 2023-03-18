@@ -1,0 +1,3 @@
+En este commit se agregaron los estilos globales en el style.css como tambien se agregaron los estilos de normalize, en el index se agrego la estuctura basica y la importacion de los estilos mas el 'Preload'
+
+commit numero 3
