@@ -1,3 +1,2 @@
-En este commit se modifico el stilo de las imagenes se agregaron estilos al logo del header y se añadio un enlace al mismo se añadieron estilos a la navegacion con los enlaces usando BEM en el menu de navegacion se estructuro el mismo header
-
-commit numero 5
+En este commit se agregaron las nuevas paginas de productos y nosotros  mas el primer grid and div de el producto mas el precio y el nombre sin estilos
+commit numero 6
