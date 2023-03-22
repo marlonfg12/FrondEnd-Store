@@ -1,2 +1,2 @@
-En este commit se termino la pagina de nosotros.html agregando sus iconos sus imagenes y textos necesarios mas sus estilos de mare efectiva
-commit numero 8
+En este commit se termino la pagina completa de intento de tienda virtual terminando con la pagina de producto donde en este commit se guardo los estilos y todo lo relacionado con la pagina producto
+commit numero 9
