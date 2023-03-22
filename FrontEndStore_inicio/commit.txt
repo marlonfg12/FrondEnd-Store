@@ -1,2 +1,2 @@
-En este commit se creo la grilla completa del home page donde se agregaron las imagenes de productos los estilos y lo mismo de los graficos
-commit numero 7
+En este commit se termino la pagina de nosotros.html agregando sus iconos sus imagenes y textos necesarios mas sus estilos de mare efectiva
+commit numero 8
