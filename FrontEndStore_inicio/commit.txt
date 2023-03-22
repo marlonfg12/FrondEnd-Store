@@ -1,2 +1,2 @@
-En este commit se agregaron las nuevas paginas de productos y nosotros  mas el primer grid and div de el producto mas el precio y el nombre sin estilos
-commit numero 6
+En este commit se creo la grilla completa del home page donde se agregaron las imagenes de productos los estilos y lo mismo de los graficos
+commit numero 7
